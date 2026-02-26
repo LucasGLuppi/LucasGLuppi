@@ -3,9 +3,6 @@
 Soy **Técnico Universitario en Programación (UTN)**, orientado al **desarrollo web**. Me enfoco en escribir código **prolijo**, **entendible** y **fácilmente escalable**.
 
 [![GitHub - LucasGLuppi](https://img.shields.io/badge/GitHub-LucasGLuppi-181717?logo=github&logoColor=white)](https://github.com/LucasGLuppi)
-[![Followers](https://img.shields.io/github/followers/LucasGLuppi?style=flat&color=0e75b6)](https://github.com/LucasGLuppi?tab=followers)
-[![Stars](https://img.shields.io/github/stars/LucasGLuppi?style=flat&color=ffd700)](https://github.com/LucasGLuppi?tab=repositories)
-![Views](https://komarev.com/ghpvc/?username=LucasGLuppi&label=Visitas&color=0e75b6)
 
 ---
 
@@ -53,7 +50,10 @@ Soy **Técnico Universitario en Programación (UTN)**, orientado al **desarrollo
 ---
 
 ## 📚 Aprendizaje continuo
-Refuerzo **React**, **TypeScript**, **.NET** y **patrones de diseño**. Sigo **Midudev**, **Fazt**, **NetMentor**, entre otros. Inglés **intermedio** (CLEC – UNR).
+Refuerzo **React**, **TypeScript**, **.NET** y **patrones de diseño**. Sigo **Midudev**, **Fazt**, **NetMentor**, entre otros.
+
+## 🗣️ Idiomas
+**Inglés (intermedio, CLEC – UNR)**
 
 ## 👤 Sobre mí
 **Servicial**, **responsable**, **práctico**. Ex jugador de **ajedrez** de alto nivel (di clases). Estudié **violín** por muchos años. **Adventista del Séptimo Día**.
@@ -78,8 +78,8 @@ En **MongoDB**, **TypeScript**, **Python**, **C**, **C++**, **Bootstrap**, **Doc
 ### Formación y canales
 Además de la **UTN**, me actualizo con **Midudev**, **Fazt**, **NetMentor** y **Píldoras Informáticas**, enfocándome en **React**, **TypeScript**, **.NET** y buenas prácticas.
 
-### Idioma
-Inglés **intermedio** (cursado hasta 4º año en el **CLEC – UNR**).
+### Idiomas
+**Inglés (intermedio, CLEC – UNR)**.
 
 ### Valores personales
 Me esfuerzo por ser **servicial**, **responsable** y **práctico**, con **rápida aprehensión** de tareas. Fui **ajedrecista** de alto nivel (también di clases) y estudié **violín** por varios años. Soy **Adventista del Séptimo Día**.
