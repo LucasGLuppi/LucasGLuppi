@@ -9,7 +9,6 @@ Soy **Técnico Universitario en Programación (UTN)**, orientado al **desarrollo
 ## 📬 Contacto
 [![Email](https://img.shields.io/badge/Email-lucasgluppi%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lucasgluppi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasgluppi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgluppi)
-[![CV](https://img.shields.io/badge/CV-PDF-4CAF50?logo=adobeacrobatreader&logoColor=white)](./CV_Lucas_Luppi.pdf)
 
 ---
 
